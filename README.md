@@ -71,7 +71,7 @@ namespace Expno01
 
 ## Output:
 ![](11.png)
-
+![](2.png)
 
 ## Result:
 
